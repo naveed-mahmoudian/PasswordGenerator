@@ -17,4 +17,4 @@ A simple way to generate a secure password directly from the command line.
 4. Your password is generated, and you can generate another or quit the program
 
 ## Credits
-Created by Naveed Mahmoudian
+Created by Naveed Mahmoudian.
